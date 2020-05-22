@@ -9,3 +9,5 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+<h3><a href="https://starchitect-currency-convertor.netlify.app/" target="_blank">Demo</a></h3>
